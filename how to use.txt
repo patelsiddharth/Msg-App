@@ -1,0 +1,7 @@
+HOW TO USE : 
+1.Create a new folder "msgapp" in C:\xampp\htdocs .
+2.Copy all the files into "msgapp". 
+3.Create database "msgapp" and import the sql provided. 
+4.Use link: "localhost/msgapp/index.php".
+
+REQUIREMENT : XAMPP
